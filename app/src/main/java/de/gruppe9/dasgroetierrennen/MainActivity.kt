@@ -1,4 +1,4 @@
-package de.robin.tiergeschwindigkeitenapp
+package de.gruppe9.dasgroetierrennen
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

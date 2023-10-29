@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TierGeschwindigkeitenApp"
+rootProject.name = "DasGroßeTierrennen"
 include(":app")
  

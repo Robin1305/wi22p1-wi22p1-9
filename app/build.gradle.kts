@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace = "de.robin.tiergeschwindigkeitenapp"
-    compileSdk = 33
+    namespace = "de.gruppe9.dasgroetierrennen"
+    compileSdk = 34
 
     defaultConfig {
-        applicationId = "de.robin.tiergeschwindigkeitenapp"
+        applicationId = "de.gruppe9.dasgroetierrennen"
         minSdk = 26
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
