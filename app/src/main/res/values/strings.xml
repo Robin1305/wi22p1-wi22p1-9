@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">DasGroßeTierrennen</string>
+    <string name="app_name">Animal Speeds</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcomeToAnimalSpeeds">Willkommen zur Animal Speeds-App. Bist du bereit die Geschwindigkeiten unterschiedlicher Tiere hautnah zu erleben</string>
+    <string name="startSpeedCalculation">Geschwindigkeit berechnen</string>
+
 </resources>
