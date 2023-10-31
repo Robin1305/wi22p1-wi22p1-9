@@ -7,6 +7,7 @@
         android:layout_height="match_parent"
         android:gravity="center"
         android:orientation="vertical">
+
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -15,17 +16,32 @@
             android:textAlignment="center"
             android:textSize="25sp" />
 
+        <ImageView
+            android:id="@+id/WelcomeScreenImage"
+            android:layout_width="268dp"
+            android:layout_height="210dp"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/welcome_cartoon" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="TextView" />
+
         <EditText
-            android:id="@+id/editTextNumber3"
+            android:id="@+id/editTextNumberDecimal"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:inputType="number" />
+            android:inputType="numberDecimal" />
 
-        <Space
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight="1" />
         <Button
             android:id="@+id/startQuizButton"
             android:layout_width="wrap_content"

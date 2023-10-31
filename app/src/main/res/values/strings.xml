@@ -2,8 +2,8 @@
     <string name="app_name">Animal Speeds</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="welcomeToAnimalSpeeds">Willkommen zur Animal Speeds-App. Bist du bereit die Geschwindigkeiten unterschiedlicher Tiere hautnah zu erleben</string>
-    <string name="startSpeedCalculation">Geschwindigkeit berechnen</string>
+    <string name="welcomeToAnimalSpeeds">Das Große Tierrennen!</string>
+    <string name="startSpeedCalculation">Zeit berechnen</string>
     <string name="button_newCalculation">Neue Berechnung</string>
     <string name="button_data_view">Datenansicht</string>
     <string name="result">Hier steht das Ergebnis\n</string>
